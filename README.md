@@ -20,7 +20,7 @@ The lab is built using VMware Workstation VMs and includes the following compone
 - **Zeek**: Performs deep network traffic analysis and logging alongside Suricata.
 - **AI Layer**: Classifies incoming alerts by risk level using an LLM, and flags abnormal behavior using an Isolation Forest model.
 
-![Lab Architecture](docs/SIEM_ARCHI.png)
+![Lab Architecture](SIEM_ARCHI.png)
 
 *Figure 1: SIEM Lab Architecture.*
 
